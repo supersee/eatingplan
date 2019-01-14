@@ -1,3 +1,7 @@
+Base site : https://www.buycycle.co.za/shop-by-brand/a-d/
+
+Selectors :
+
 .ty-column3 --top level match
 
 ** .product-title -- title 
